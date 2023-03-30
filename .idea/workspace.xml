@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb86630a-6b32-4006-93df-15a0c3dc3745" name="Changes" comment="" />
+    <list default="true" id="eb86630a-6b32-4006-93df-15a0c3dc3745" name="Changes" comment="hw_lesson2">
+      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/EmployeeNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/LinkedListV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/SortType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NNTRP541yim0Nsf9X5tZHuR7U0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,14 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.lesson2.Program">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitrii\Documents\GeekBrains\AlgorithmsAndDataStructures\src" />
+      <recent name="C:\Users\Dmitrii\Documents\GeekBrains\AlgorithmsAndDataStructures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.hw_lesson3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw_lesson2.Main" />
       <module name="AlgorithmsAndDataStructures" />
@@ -47,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw_lesson3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_lesson3.Main" />
+      <module name="AlgorithmsAndDataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lesson2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson2.Program" />
       <module name="AlgorithmsAndDataStructures" />
@@ -62,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw_lesson3.Main" />
         <item itemvalue="Application.lesson2.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Main" />
@@ -76,7 +120,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679503531363</updated>
+      <workItem from="1679503533026" duration="1907000" />
+      <workItem from="1679589842715" duration="4646000" />
+      <workItem from="1679728113490" duration="7801000" />
+      <workItem from="1679822215573" duration="7368000" />
+      <workItem from="1679913518773" duration="4549000" />
+      <workItem from="1679942211410" duration="3432000" />
+      <workItem from="1679983419085" duration="1191000" />
+      <workItem from="1680037291480" duration="647000" />
+      <workItem from="1680110433628" duration="4192000" />
+      <workItem from="1680155207043" duration="5744000" />
+      <workItem from="1680187095884" duration="4298000" />
     </task>
+    <task id="LOCAL-00001" summary="hw_lesson2">
+      <created>1679503867052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679503867052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw_lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_lesson2" />
   </component>
 </project>
