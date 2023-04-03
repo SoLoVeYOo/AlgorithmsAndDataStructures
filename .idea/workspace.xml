@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb86630a-6b32-4006-93df-15a0c3dc3745" name="Changes" comment="hw_lesson2">
-      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_lesson3/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/EmployeeNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/LinkedListV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/SortType.java" afterDir="false" />
+    <list default="true" id="eb86630a-6b32-4006-93df-15a0c3dc3745" name="Changes" comment="hw_lesson3">
+      <change afterPath="$PROJECT_DIR$/src/hw_seminar4/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_seminar4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_seminar4/MyBinaryColorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_seminar4/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,24 +43,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dmitrii\Documents\GeekBrains\AlgorithmsAndDataStructures\src" />
       <recent name="C:\Users\Dmitrii\Documents\GeekBrains\AlgorithmsAndDataStructures" />
+      <recent name="C:\Users\Dmitrii\Documents\GeekBrains\AlgorithmsAndDataStructures\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hw_lesson3.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_lesson2.Main" />
-      <module name="AlgorithmsAndDataStructures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw_lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hw_seminar4.Main">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.Program" />
       <module name="AlgorithmsAndDataStructures" />
@@ -90,6 +74,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw_lesson4v2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_lesson4v2.Main" />
+      <module name="AlgorithmsAndDataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_lesson4v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw_seminar4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_seminar4.Main" />
+      <module name="AlgorithmsAndDataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_seminar4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lesson2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson2.Program" />
       <module name="AlgorithmsAndDataStructures" />
@@ -105,10 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw_seminar4.Main" />
+        <item itemvalue="Application.hw_lesson4v2.Main" />
         <item itemvalue="Application.hw_lesson3.Main" />
         <item itemvalue="Application.lesson2.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +141,10 @@
       <workItem from="1680037291480" duration="647000" />
       <workItem from="1680110433628" duration="4192000" />
       <workItem from="1680155207043" duration="5744000" />
-      <workItem from="1680187095884" duration="4298000" />
+      <workItem from="1680187095884" duration="9072000" />
+      <workItem from="1680453822563" duration="851000" />
+      <workItem from="1680516033512" duration="4343000" />
+      <workItem from="1680529844140" duration="5152000" />
     </task>
     <task id="LOCAL-00001" summary="hw_lesson2">
       <created>1679503867052</created>
@@ -139,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679503867052</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hw_lesson3">
+      <created>1680191726968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680191726968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +179,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw_lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_lesson2" />
+    <MESSAGE value="hw_lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_lesson3" />
   </component>
 </project>
