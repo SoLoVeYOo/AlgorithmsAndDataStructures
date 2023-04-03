@@ -9,7 +9,7 @@ public class Main {
             bt.addNode(i);
         }
 
-        bt.printThreeUpperMost();
+        bt.printTreeUpperMost();
 
     }
 }

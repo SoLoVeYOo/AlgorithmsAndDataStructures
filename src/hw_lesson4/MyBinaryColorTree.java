@@ -97,7 +97,7 @@ public class MyBinaryColorTree<T extends Comparable<T>>{
         node.color = Color.RED;
     }
 
-    public void printThreeUpperMost() {
+    public void printTreeUpperMost() {
         if (root == null) System.out.println("Tree is empty");
         else if (root.left == null) System.out.println("Left is null");
         else if (root.right == null) System.out.println("Right is null");
