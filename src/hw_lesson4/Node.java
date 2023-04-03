@@ -1,4 +1,4 @@
-package hw_seminar4;
+package hw_lesson4;
 
 public class Node<T extends Comparable<T>>{
 
